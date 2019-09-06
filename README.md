@@ -7,4 +7,6 @@ Specific files for own flightradar24 tracking project
 
 Link [jetvision download support](https://rtl1090.com) abgerufen 2019-09-06
 
+[DVB-T Dongle - Quick_Start Guide](Quick_Start_Dongle_20171231.pdf)
+
 []()
