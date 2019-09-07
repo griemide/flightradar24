@@ -11,9 +11,9 @@ jetvision [DVB-T Dongle - Quick_Start Guide](Quick_Start_Dongle_20171231.pdf)
 
 ## other projects
 
-[squix ESP8266 plane spotter](https://blog.squix.org/2016/07/esp8266-based-plane-spotter-how-to.html)
+[squix: ESP8266 plane spotter](https://blog.squix.org/2016/07/esp8266-based-plane-spotter-how-to.html)
 
-[rasspberry.tipps Laufraumüberwachung](http://raspberry.tips/raspberrypi-tutorials/lueftraumueberwachung-mit-dem-raspberry-pi/)
+[rasspberry.tips: Laufraumüberwachung](http://raspberry.tips/raspberrypi-tutorials/lueftraumueberwachung-mit-dem-raspberry-pi/)
 
 ### references
 
