@@ -5,15 +5,16 @@ FR24 [Homepage / Share your ADS-B data](https://www.flightradar24.com/share-your
 
 FR24 [Installationshandbuch](fr24feed-manual.pdf) (abgerufen 2019-09-06)
 
-Link [jetvision download support](https://rtl1090.com) (abgerufen 2019-09-06)
+jetvision [download support](https://rtl1090.com) (abgerufen 2019-09-06)
 
-jetvision [DVB-T Dongle - Quick_Start Guide](Quick_Start_Dongle_20171231.pdf)
+jetvision [DVB-T Dongle - Quick_Start Guide](Quick_Start_Dongle_20171231.pdf)(abgerufen 2019-09-06)
 
-J. Sun [decoding ADS-B](the_1090mhz_riddle-junzi_sun_2019-09-07.pdf)
+J.Sun [decoding ADS-B](the_1090mhz_riddle-junzi_sun_2019-09-07.pdf) (abgerufen 2019-09-07)
+
 
 ## other projects
 
-[ADS-B deccoding](https://github.com/junzis/the-1090mhz-riddle)
+[mode-s.org: ADS-B decoding](https://github.com/junzis/the-1090mhz-riddle)
 
 [squix: ESP8266 plane spotter](https://blog.squix.org/2016/07/esp8266-based-plane-spotter-how-to.html)
 
@@ -21,6 +22,8 @@ J. Sun [decoding ADS-B](the_1090mhz_riddle-junzi_sun_2019-09-07.pdf)
 
 ### references
 
-Automatic Dependent Surveillance-Broadcast (ADS-B) - [Wiki](https://de.wikipedia.org/wiki/Automatic_Dependent_Surveillance)
+ADS-B (Automatic Dependent Surveillance - Broadcast - [Wiki de](https://de.wikipedia.org/wiki/Automatic_Dependent_Surveillance)
+
+DVB-T (Digital Video Broadcasting – Terrestrial) - [Wiki de](https://https://de.wikipedia.org/wiki/DVB-T)
 
 []()
