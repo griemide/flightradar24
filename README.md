@@ -9,6 +9,8 @@ Link [jetvision download support](https://rtl1090.com) (abgerufen 2019-09-06)
 
 jetvision [DVB-T Dongle - Quick_Start Guide](Quick_Start_Dongle_20171231.pdf)
 
+J. Sun [decoding ADS-B](the_1090mhz_riddle-junzi_sun_2019-09-07.pdf)
+
 ## other projects
 
 [ADS-B deccoding](https://github.com/junzis/the-1090mhz-riddle)
