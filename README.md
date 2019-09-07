@@ -26,13 +26,14 @@ ADS-B (Automatic Dependent Surveillance - Broadcast - [Wiki de](https://de.wikip
 
 DVB-T (Digital Video Broadcasting – Terrestrial) - [Wiki de](https://https://de.wikipedia.org/wiki/DVB-T)
 
-Mode-S (Standard Mark XII - Sekundärradar) [Wiki de](https://de.wikipedia.org/wiki/Sekund%C3%A4rradar#Mode_S)
+Mode-S (Standard Mark XII - Sekundärradar) -  [Wiki de](https://de.wikipedia.org/wiki/Sekund%C3%A4rradar#Mode_S)
 
 #### remarks
 
 Squitter-Mode
+
 Eine Besonderheit der Mode-S-fähigen Transponder ist der sogenannte Squitter-Mode, bei dem der Transponder unabhängig von einer Abfrage und in regelmäßigen Abständen zum Beispiel GPS- Position und Identifizierung als Rundspruch sendet (ADS-B Automatic Dependent Surveillance – Broadcast). Die Unterstützung dieses Modes ist in Deutschland jedoch keine Pflicht. Auch sind noch nicht alle Mode-S-fähigen Transponder technisch in der Lage, eine solche Nachricht zu versenden.
 
-Dieser Mode ermöglicht, mit einem einfachen über eine USB-Schnittstelle an einen Computer angeschlossenen Empfänger auf der Frequenz 1090 MHz ein virtuelles Radar aufzubauen, das mit einer kleinen Stabantenne die kommerziellen Flüge im Umkreis von etwa 40 km auf dem Computerdisplay in Echtzeit darstellen kann. Durch die Verknüpfung vieler solcher kleinen Empfangsstationen über ein Netzwerk sind lückenlose Darstellungen der Bewegungen im Luftraum möglich.[4]
+Dieser Mode ermöglicht, mit einem einfachen über eine USB-Schnittstelle an einen Computer angeschlossenen Empfänger auf der Frequenz 1090 MHz ein virtuelles Radar aufzubauen, das mit einer kleinen Stabantenne die kommerziellen Flüge im Umkreis von etwa 40 km auf dem Computerdisplay in Echtzeit darstellen kann. Durch die Verknüpfung vieler solcher kleinen Empfangsstationen über ein Netzwerk sind lückenlose Darstellungen der Bewegungen im Luftraum möglich.
 
 []()
