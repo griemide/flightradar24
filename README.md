@@ -7,7 +7,7 @@ FR24 [Installationshandbuch](fr24feed-manual.pdf) (abgerufen 2019-09-06)
 
 Link [jetvision download support](https://rtl1090.com) (abgerufen 2019-09-06)
 
-[DVB-T Dongle - Quick_Start Guide](Quick_Start_Dongle_20171231.pdf)
+jetvision [DVB-T Dongle - Quick_Start Guide](Quick_Start_Dongle_20171231.pdf)
 
 ## other projects
 
@@ -15,6 +15,6 @@ Link [jetvision download support](https://rtl1090.com) (abgerufen 2019-09-06)
 
 ### references
 
-Automatic Dependent Surveillance-Broadcast (ADS-B)
+Automatic Dependent Surveillance-Broadcast (ADS-B) - [Wiki](https://de.wikipedia.org/wiki/Automatic_Dependent_Surveillance)
 
 []()
