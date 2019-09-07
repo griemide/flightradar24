@@ -1,7 +1,9 @@
 # flightradar24
 Specific files for own flightradar24 tracking project
 
-FR24 [Homepage / Share your ADS-B data](https://www.flightradar24.com/share-your-data)
+FR24 [Live traffic - local](https://www.flightradar24.com/50.88,9.73/10)
+
+FR24 [Share your ADS-B data](https://www.flightradar24.com/share-your-data)
 
 FR24 [Installationshandbuch](fr24feed-manual.pdf) (abgerufen 2019-09-06)
 
