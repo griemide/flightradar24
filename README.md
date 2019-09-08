@@ -55,11 +55,8 @@ The RTL-SDR is an ultra cheap software defined radio based on DVB-T TV tuners wi
 + Squawk (Flugfunktranspondercode)
 
 Betriebsarten:
-
-Mode A: nur der Squawk wird übermittelt
-
-Mode C: Squawk und Flugfläche (Flughöhe über Normaldruck gerundet auf 100 ft) werden übermittelt
-
-Mode S: Zusätzlich zu Squawk und Flugfläche wird eine 24-bit-Kennung übermittelt, die jedem Flugzeug eindeutig zugeordnet ist
+- Mode A: nur der Squawk wird übermittelt
+- Mode C: Squawk und Flugfläche (Flughöhe über Normaldruck gerundet auf 100 ft) werden übermittelt
+- Mode S: Zusätzlich zu Squawk und Flugfläche wird eine eindeutige Fleugzeugkennung (24-bit) übermittelt
 
 []()
