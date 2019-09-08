@@ -18,7 +18,7 @@ J.Sun [decoding ADS-B](the_1090mhz_riddle-junzi_sun_2019-09-07.pdf) (abgerufen 2
 
 [mode-s.org: ADS-B decoding](https://github.com/junzis/the-1090mhz-riddle)
 
-[RTL-SDR.COM: rtl1090 versions](https://www.rtl-sdr.com/tag/rtl1090/)
+[rtl-sdr.com: RTL1090 versions](https://www.rtl-sdr.com/tag/rtl1090/)
 
 [squix: ESP8266 plane spotter](https://blog.squix.org/2016/07/esp8266-based-plane-spotter-how-to.html)
 
