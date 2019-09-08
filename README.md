@@ -36,6 +36,8 @@ Mode-S (Standard Mark XII - Sekundärradar) - [Wiki de](https://de.wikipedia.org
 
 SDR (Software Defined Radio - RTL-SDR) - [Wiki de](https://de.wikipedia.org/wiki/Software_Defined_Radio)
 
+SSR (Secondary Surveillance Radar - Sekundärradar) - [Wiki de](https://en.wikipedia.org/wiki/Secondary_surveillance_radar)
+
 ---
 
 #### remarks
@@ -49,5 +51,15 @@ Dieser Mode ermöglicht, mit einem einfachen über eine USB-Schnittstelle an ein
 + RTL-SDR
  
 The RTL-SDR is an ultra cheap software defined radio based on DVB-T TV tuners with RTL2832U chips. The RTL-SDR can be used as a wide band radio scanner. It may interest ham radio enthusiasts, hardware hackers, tinkerers and anyone interested in RF
+
++ Squawk (Flugfunktranspondercode)
+
+Betriebsarten:
+
+Mode A: nur der Squawk wird übermittelt
+
+Mode C: Squawk und Flugfläche (Flughöhe über Normaldruck gerundet auf 100 ft) werden übermittelt
+
+Mode S: Zusätzlich zu Squawk und Flugfläche wird eine 24-bit-Kennung übermittelt, die jedem Flugzeug eindeutig zugeordnet ist
 
 []()
