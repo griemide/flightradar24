@@ -16,13 +16,13 @@ J.Sun [decoding ADS-B](the_1090mhz_riddle-junzi_sun_2019-09-07.pdf) (abgerufen 2
 
 ## other projects
 
-[mode-s.org: ADS-B decoding](https://github.com/junzis/the-1090mhz-riddle)
+mode-s.org: [ADS-B decoding](https://github.com/junzis/the-1090mhz-riddle)
 
-[rtl-sdr.com: RTL1090 versions](https://www.rtl-sdr.com/tag/rtl1090/)
+rtl-sdr.com: [RTL1090 versions](https://www.rtl-sdr.com/tag/rtl1090/)
 
-[squix: ESP8266 plane spotter](https://blog.squix.org/2016/07/esp8266-based-plane-spotter-how-to.html)
+squix: [ESP8266 plane spotter](https://blog.squix.org/2016/07/esp8266-based-plane-spotter-how-to.html)
 
-[rasspberry.tips: Laufraumüberwachung](http://raspberry.tips/raspberrypi-tutorials/lueftraumueberwachung-mit-dem-raspberry-pi/)
+rasspberry.tips: [Laufraumüberwachung](http://raspberry.tips/raspberrypi-tutorials/lueftraumueberwachung-mit-dem-raspberry-pi/)
 
 ---
 
@@ -36,7 +36,7 @@ Mode-S (Standard Mark XII - Sekundärradar) - [Wiki de](https://de.wikipedia.org
 
 SDR (Software Defined Radio - RTL-SDR) - [Wiki de](https://de.wikipedia.org/wiki/Software_Defined_Radio)
 
-SSR (Secondary Surveillance Radar - Sekundärradar) - [Wiki de](https://en.wikipedia.org/wiki/Secondary_surveillance_radar)
+SSR (Secondary Surveillance Radar - Sekundärradar) - [Wiki en](https://en.wikipedia.org/wiki/Secondary_surveillance_radar)
 
 ---
 
@@ -55,8 +55,8 @@ The RTL-SDR is an ultra cheap software defined radio based on DVB-T TV tuners wi
 + Squawk (Flugfunktranspondercode)
 
 Betriebsarten:
-- Mode A: nur der Squawk wird übermittelt
-- Mode C: Squawk und Flugfläche (Flughöhe über Normaldruck gerundet auf 100 ft) werden übermittelt
-- Mode S: Zusätzlich zu Squawk und Flugfläche wird eine eindeutige Fleugzeugkennung (24-bit) übermittelt
+1. Mode A: nur der Squawk wird übermittelt
+2. Mode C: Squawk und Flugfläche (Flughöhe über Normaldruck gerundet auf 100 ft) werden übermittelt
+3. Mode S: Zusätzlich zu Squawk und Flugfläche wird eine eindeutige Fleugzeugkennung (24-bit) übermittelt
 
 []()
